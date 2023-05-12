@@ -16,7 +16,6 @@ int noteDurations2[] = {
 };
 
 void setup() {
-  // iterate over the notes of the melody:
   pinMode(7,INPUT);
 }
 
